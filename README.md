@@ -32,5 +32,6 @@ TikTok/Reels-style platform for managing and consuming video content securely.
 - 🧠 Problem solving with LeetCode
 
 ## 📫 How to reach me
-# https://www.linkedin.com/in/carlos-camberos-cordova/
-# 📧 carloscordovac@outlook.es
+https://www.linkedin.com/in/carlos-camberos-cordova/
+
+📧 carloscordovac@outlook.es
